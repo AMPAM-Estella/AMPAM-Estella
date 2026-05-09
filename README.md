@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMPAM-Estella
 - 👀 Tech enthusiast. Just learning as I grow.
-- 🌱 I’m currently learning HTMl, CSS, javascript and Golang.
+- 🌱 Tech stack: React, Javascript/Typescript, Tailwind CSS, HTML5, Boostrap, Redux Toolkit
 - 💞️ I’m looking to collaborate with other techies. 
 - 📫 How to reach me ...
 estellaabo@gmail.com 
